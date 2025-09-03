@@ -1,0 +1,14 @@
+[
+    {
+        "device_id": "331c598b97314e9e",
+        "key": "theo1234",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "",
+        "key": "",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+]
