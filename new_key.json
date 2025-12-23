@@ -10,21 +10,21 @@
     "id": "1b644c750ed2f435",
     "username": "apo",
     "password": "apo",
-    "expiresAt": "2026-12-04",
+    "expiresAt": "2025-12-04",
     "allowOffline": true
   },
  {
     "id": "ccc1a8b8c97cfb70",
     "username": "apo",
     "password": "apo",
-    "expiresAt": "2026-12-04",
+    "expiresAt": "2025-12-04",
     "allowOffline": true
   },
 {
         "id": "7442dfcfcaddde38",
         "username": "EI12",
         "password": "24065477",
-        "expiresAt": "2026-11-30",
+        "expiresAt": "2025-11-30",
     "allowOffline": true
     },
 {
@@ -73,35 +73,35 @@
         "id": "798137bd045a52b8",
         "username": "EI12",
         "password": "EI12",
-        "expiresAt": "2026-11-30",
+        "expiresAt": "2025-11-30",
     "allowOffline": true
     },
 {
         "id": "673f9f83ed3b412c",
         "username": "EI12",
         "password": "EI12",
-        "expiresAt": "2026-11-30",
+        "expiresAt": "2025-11-30",
     "allowOffline": true
     },
 {
         "id": "050e3541e6fff3cf",
         "username": "EI12",
         "password": "EI12",
-        "expiresAt": "2026-11-30",
+        "expiresAt": "2025-11-30",
     "allowOffline": true
     },
      {
     "id": "6d90f0481dfd57b6",
          "username": "EI12",
     "password": "25057611",
-    "expiresAt": "2026-11-30",
+    "expiresAt": "2025-11-30",
     "allowoffline": true
   },
 {
     "id": "0cca0957dfb2e1cf",
     "username": "EI12",
     "password": "25077941",
-    "expiresAt": "2026-11-305",
+    "expiresAt": "2025-11-30",
     "allowoffline": true
   },
  {
@@ -122,14 +122,14 @@
     "id": "a2e7dde8bdad4b7e",
       "username": "EI12",
    "password": "22035737",
-    "expiresAt": "2026-11-30",
+    "expiresAt": "2025-11-30",
     "allowoffline": true
   },
    {
     "id": "fb4a758460832a4a",
        "username": "EI12",
     "password": "24067227",
-    "expiresAt": "2026-11-30",
+    "expiresAt": "2025-11-30",
     "allowoffline": true
   }, 
    {
@@ -143,13 +143,13 @@
     "id": "869038b8a5688f1d",
         "username": "EI12",
     "password": "24115569",
-    "expiresAt": "2026-11-30",
+    "expiresAt": "2025-11-30",
     "allowoffline": true
   },
     {
     "id": "",
     "password": "",
-    "expiresAt": "2026-11-30",
+    "expiresAt": "2025-11-30",
     "allowoffline": false
     }
 ]
